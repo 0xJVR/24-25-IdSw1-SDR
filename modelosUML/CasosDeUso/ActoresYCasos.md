@@ -81,12 +81,12 @@ Este documento contiene los diagramas de contexto de los casos de uso para el si
 
 Este diagrama muestra cómo la **Empresa** solicita la creación de una oferta, la cual es validada y guardada como pendiente. Luego, el **Administrador** es notificado para revisarla.
 
-![Crear Oferta de Trabajo](crearOferta.puml)
+![Crear Oferta de Trabajo](svg/crearOfertaEmpresa.svg)
 
 ### 2. Buscar Oferta de Trabajo
 
 El **Alumni** puede realizar búsquedas aplicando filtros y viendo los detalles de las ofertas. Las actividades también son registradas automáticamente.
 
-![Buscar Oferta de Trabajo](buscarOferta.puml)
+![Buscar Oferta de Trabajo](svg/alumniBuscaOferta.svg)
 
 
