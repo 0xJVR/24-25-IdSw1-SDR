@@ -71,7 +71,7 @@ La prioridad debe basarse en su importancia estratégica, valor para el cliente,
 - **Actor**: Administrador
 - **Descripción**: Administrador cancela una oferta por incumplimiento
 
-# Diagramas de Contexto
+# 5. Diagramas de Contexto
 
 Este documento contiene los diagramas de contexto de los casos de uso para el sistema de gestión de ofertas de trabajo. Cada diagrama describe las interacciones clave entre los actores y los casos de uso involucrados.
 
