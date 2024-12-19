@@ -31,4 +31,4 @@ Se desarrolla, en un caso real, la disciplina de requisitado, que es la puerta d
 
 ## Casos de Uso:
 
-[Actores y Casos](modelosUML/CasosDeUso/ActoresYCasos.md)
+[Actores y Casos](modelosUML/CasosDeUso/README.md)
